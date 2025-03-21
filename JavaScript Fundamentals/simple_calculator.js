@@ -1,4 +1,4 @@
-// Simplest Calculator (Console)
+// Simplest Calculator
 
 const num1 = +prompt("First number:"); 
 const operator = prompt("Operator (+, -, *, /):"); 
