@@ -102,5 +102,3 @@ console.log(sayHello("Bob"));
 let sayGoodbye = makeGreeting("Goodbye"); 
 
 console.log(sayGoodbye("Charlie")); 
-
-

@@ -26,6 +26,13 @@
 - **Asynchronous JavaScript:** async/await, Promises
 - **Mini Project:** Fetch API Data (Retrieve and display JSON data dynamically)
 
+## Problem Solving with JavaScript
+- Algorithm Design
+- Debugging Strategies
+- Code Optimization
+- Practical Problem Sets on online judge 
+- Introduction to Data Structures(Basic)
+
 ## Final Project - To-Do List Application
 - Creating a user interface with HTML and CSS
 - Implementing task management using JavaScript
