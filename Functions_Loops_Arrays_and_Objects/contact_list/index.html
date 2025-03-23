@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact List</title>
+
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h1>Contact List</h1>
+
+  <form id="contactForm">
+    <input type="text" id="firstName" placeholder="First Name" required>
+    <input type="text" id="lastName" placeholder="Last Name" required>
+    <input type="tel" id="phoneNumber" placeholder="Phone Number">
+    <input type="email" id="email" placeholder="Email">
+    <button type="submit">Add Contact</button>
+  </form>
+
+  <div id="contactList"></div>
+
+    <div id="editForm">
+        <h2>Edit Contact</h2>
+        <input type="hidden" id="editIndex">
+        <input type="text" id="editFirstName" placeholder="First Name" required><br><br>
+        <input type="text" id="editLastName" placeholder="Last Name" required><br><br>
+        <input type="tel" id="editPhoneNumber" placeholder="Phone Number"><br><br>
+        <input type="email" id="editEmail" placeholder="Email"><br><br>
+        <button id="saveEdit">Save</button>
+        <button id="cancelEdit">Cancel</button>
+    </div>
+    
+    <script src="./script.js"></script>
+</body>
+</html>
