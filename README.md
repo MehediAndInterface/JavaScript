@@ -1,47 +1,35 @@
-## JavaScript Fundamentals
-- Introduction to JavaScript and its role in web development
-- **Variables:** var, let, const
-- **Data Types:** String, Number, Boolean, Undefined, Null, Object, Symbol
-- **Operators:** Arithmetic, Assignment, Comparison, Logical
-- **Mini Project:** Simple Calculator (Perform basic arithmetic operations)
+## **Module 1: Foundations & Interactive To-Do List**
+- **JavaScript basics:** variables, data types, operators, control flow.
+- **DOM manipulation:** selecting elements, changing content, adding/removing elements.
+- **Event handling:** click events, input events.
+- **Local storage.**
+- **Project:** Build an interactive To-Do List application.
+    - Features: Add tasks, mark tasks as complete, delete tasks, persist data using local storage.
 
-## Functions, Loops, Arrays, and Objects
-- **Functions:** Function declarations, expressions, arrow functions
-- **Loops:** for, while, do-while, forEach
-- **Arrays:** Methods such as push(), pop(), map(), filter()
-- **Objects:** Defining properties, methods, and using this keyword
-- **Mini Project:** Contact List (Manage contacts using objects and arrays)
+Module 2: Dynamic Weather Application (API Integration)
+Topics:
+Asynchronous JavaScript: callbacks, promises, async/await.
+Fetch API: making HTTP requests.
+Working with JSON data.
+Error handling in asynchronous operations.
+Project: Develop a weather application that fetches and displays real-time weather data from an API.
+Features: User input for location, display current weather conditions, show forecast, handle API errors.
 
-## DOM Manipulation and Event Handling
-- **Selecting elements:** getElementById(), querySelector()
-- **Modifying elements:** innerHTML, textContent, style
-- **Event Listeners:** Handling click, keyup, submit, mouseover events
-- **Mini Project:** Color Changer App (Modify background color on user interaction)
+Module 3: Interactive Quiz Application
+Topics:
+Array manipulation.
+Object-oriented JavaScript (basic concepts).
+Dynamic UI updates.
+Timer functions (setTimeout, setInterval).
+Project: Create an interactive quiz application.
+Features: Display questions, track user scores, provide feedback, implement a timer.
 
-## ES6+ Features
-- **Arrow Functions**
-- **Destructuring (Arrays and Objects)**
-- **Template Literals**
-- **Spread and Rest Operators**
-- **Asynchronous JavaScript:** async/await, Promises
-- **Mini Project:** Fetch API Data (Retrieve and display JSON data dynamically)
+Module 4: Simple E-commerce Product Filter
+Topics:
+Array filter, map, reduce methods.
+Advanced DOM manipulation.
+Event delegation.
+Creating dynamic filters.
+Project: Build a product filter for an e-commerce page.
+Features: filter products by category, price range, and search terms.
 
-## Problem Solving with JavaScript
-- Algorithm Design
-- Debugging Strategies
-- Code Optimization
-- Practical Problem Sets on online judge 
-- Introduction to Data Structures(Basic)
-
-## Final Project - To-Do List Application
-- Creating a user interface with HTML and CSS
-- Implementing task management using JavaScript
-- Adding, deleting, and marking tasks as completed
-- Storing tasks using Local Storage
-- Using event listeners for user interactions
-- **Final Project:** Fully functional To-Do List application
-
-## Debugging and Deployment
-- Common debugging techniques: console.log(), breakpoints, DevTools
-- Performance optimization techniques
-- Hosting and deploying the project on GitHub Pages
