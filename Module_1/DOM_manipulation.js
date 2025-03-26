@@ -22,5 +22,3 @@ const myList = document.getElementById("myList");
 const itemToRemove = document.getElementById("removeMe"); 
 list.removeChild(itemToRemove);  
 
-
-
