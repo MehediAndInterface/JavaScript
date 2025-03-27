@@ -1,35 +1,60 @@
-## **Module 1: Foundations & Interactive To-Do List**
-- **JavaScript basics:** variables, data types, operators, control flow.
-- **DOM manipulation:** selecting elements, changing content, adding/removing elements.
-- **Event handling:** click events, input events.
-- **Local storage.**
-- **Project:** Build an interactive To-Do List application.
+## **Module 1: JavaScript Fundamentals**
+- **Introduction to JavaScript:**
+    - What is JavaScript?
+    - JavaScript's role in web development.
+    - Setting up a development environment (browser console, code editors).
+- **Basic Syntax:**
+    - Variables (var, let, const).
+    - Data types (strings, numbers, booleans, arrays, objects, null, undefined).
+    - Operators (arithmetic, comparison, logical).
+    - Comments.
+- **Control Flow:**
+    - Conditional statements (if, else if, else, switch).
+    - Loops (for, while, do...while).
+- **Functions:**
+    - Defining functions.
+    - Function parameters and return values.
+    - Scope.
+- **Arrays and Objects:**
+    - Arrays creation and manipulation.
+    - Objects creation and manipulation.
+    - Basic usage of array methods.
+
+## **Module 2: Document Object Model (DOM) and Event Handling**
+- **Introduction to the DOM:**
+    - Understanding the DOM tree.
+    - Selecting DOM elements (getElementById, querySelector, querySelectorAll).
+- **DOM Manipulation:**
+    - Changing element content (innerHTML, textContent).
+    - Modifying element attributes (setAttribute, getAttribute).
+    - Adding and removing elements (createElement, appendChild, removeChild).
+    - Adding and removing classes.
+    - Styling elements.
+- **Event Handling:**
+    - Understanding events (click, input, change, submit).
+    - Adding event listeners (addEventListener).
+    - Event objects.
+
+## **Module 3: Asynchronous JavaScript and Local Storage**
+- **Asynchronous JavaScript:**
+    - Introduction to asynchronous programming.
+    - Callbacks.
+    - Promises.
+    - Async/await.
+- **Fetch API:**
+    - Making HTTP requests.
+    - Working with JSON data.
+    - Error handling.
+- **Local Storage:**
+    - Storing data in the browser.
+    - Retrieving data from local storage.
+
+## **Module 4: Project-Based Learning** 
+- **Project 1: Interactive To-Do List Application:**
     - Features: Add tasks, mark tasks as complete, delete tasks, persist data using local storage.
-
-Module 2: Dynamic Weather Application (API Integration)
-Topics:
-Asynchronous JavaScript: callbacks, promises, async/await.
-Fetch API: making HTTP requests.
-Working with JSON data.
-Error handling in asynchronous operations.
-Project: Develop a weather application that fetches and displays real-time weather data from an API.
-Features: User input for location, display current weather conditions, show forecast, handle API errors.
-
-Module 3: Interactive Quiz Application
-Topics:
-Array manipulation.
-Object-oriented JavaScript (basic concepts).
-Dynamic UI updates.
-Timer functions (setTimeout, setInterval).
-Project: Create an interactive quiz application.
-Features: Display questions, track user scores, provide feedback, implement a timer.
-
-Module 4: Simple E-commerce Product Filter
-Topics:
-Array filter, map, reduce methods.
-Advanced DOM manipulation.
-Event delegation.
-Creating dynamic filters.
-Project: Build a product filter for an e-commerce page.
-Features: filter products by category, price range, and search terms.
-
+- **Project 2: Simple Weather Application:**
+    - Features: User input for location, display current weather conditions, handle API errors.
+- **Project 3: Basic Quiz Application:**
+    - Features: Display questions, track user scores, provide feedback.
+- **Project 4: Simple E-commerce Product Filter:**
+    - Features: filter products by category, and search terms.
