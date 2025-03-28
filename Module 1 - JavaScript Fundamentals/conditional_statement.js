@@ -67,3 +67,5 @@ switch(num) {
     default:
         console.log("Something else");     
 }
+
+
